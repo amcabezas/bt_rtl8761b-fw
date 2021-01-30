@@ -1,4 +1,4 @@
-#USB Bluetooth V5 on Gnu/Linux
+## USB Bluetooth V5 on Gnu/Linux
 
 Description: Realtek bluetooth firmware for RTL8761B based devices<br/>
 Os:Pop!_OS<br/>
@@ -10,7 +10,7 @@ lsusb
 ID 0bda:8771 Realtek Semiconductor Corp. Bluetooth Radio
 ```
 
-Source Firmware:  
+Source Firmware:<br/>
 https://github.com/Realtek-OpenSource/android_hardware_realtek/tree/rtk1395/bt/rtkbt/Firmware/BT
 
 ```
