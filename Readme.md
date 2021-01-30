@@ -1,6 +1,5 @@
 #USB Bluetooth V5 on Gnu/Linux
 
-Description: Realtek bluetooth firmware for RTL8761B based devices
 Os:Pop!_OS
 Kernel:5.8.0-7630-generic 
 Device Info: Easy Idea 5V 
